@@ -1,0 +1,6 @@
+﻿namespace LoginAuth
+{
+    public class appsetting_example
+    {
+    }
+}
